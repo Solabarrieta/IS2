@@ -1,0 +1,7 @@
+organization=oiersolabarrieta
+projectKey=MonopolyOier
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23273
+dashboardUrl=https://sonarcloud.io/dashboard?id=MonopolyOier
+ceTaskId=AXvqaPNKSARYmnbhvmGC
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvqaPNKSARYmnbhvmGC

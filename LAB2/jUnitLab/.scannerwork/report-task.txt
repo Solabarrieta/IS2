@@ -1,0 +1,7 @@
+organization=oiersolabarrieta
+projectKey=RemoveBasketTest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23304
+dashboardUrl=https://sonarcloud.io/dashboard?id=RemoveBasketTest
+ceTaskId=AXwCJImc6KaV2XQQHKYE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXwCJImc6KaV2XQQHKYE

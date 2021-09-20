@@ -1,0 +1,49 @@
+
+?edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)IZ
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.java_ _("5*Å
+3Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.javac c("d
+Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.javac c(
+""*Á
+4Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.javaa a(¬
+©
+Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.javaa a(
+%2java.util.ArrayList"__id***(
+edu.ncsu.monopoly.GameBoard"
+cells¨
+¥
+Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.javaa a(!
+%3java.lang.Object"
+__arrayGet*
+
+%2java.util.ArrayList*
+""*
+3
+5*Å
+5Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.java` `(¬
+©
+Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.java` `(
+%0java.util.ArrayList"__id***(
+edu.ncsu.monopoly.GameBoard"
+cells¬©
+Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.java` `(!	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()*
+4
+1*Å
+1Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.javaf
+ f("d
+Z
+PC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/GameBoard.javaf f(
+"":
+stringjava.lang.StringB
+edu.ncsu.monopoly.GameBoard

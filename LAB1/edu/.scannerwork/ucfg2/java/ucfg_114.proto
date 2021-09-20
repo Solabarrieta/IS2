@@ -1,0 +1,20 @@
+
+Dedu.ncsu.monopoly.gui.PlayerPanel#isPurchasePropertyButtonEnabled()Zb
+VC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/gui/PlayerPanel.javaª ª(2"1*ä
+1b
+VC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/gui/PlayerPanel.java« «("È
+Å
+b
+VC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/gui/PlayerPanel.java« «("
+%0javax.swing.JButton"__id*>*<#
+!edu.ncsu.monopoly.gui.PlayerPanel"
+btnPurchasePropertyÁ¾
+b
+VC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/gui/PlayerPanel.java« «(.
+%1boolean"java.awt.Component#isEnabled()Z*
+
+%0javax.swing.JButton2isEnabled()"l
+b
+VC:/Users/Oier/Documents/Uni/AÃ‘O 3/CUATRI 1/IS2/edu/ncsu/monopoly/gui/PlayerPanel.java« «(/
+""B%#
+!edu.ncsu.monopoly.gui.PlayerPanel
